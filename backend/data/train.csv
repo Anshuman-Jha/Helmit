@@ -1,0 +1,44 @@
+text,bullying,harassment,self_harm,adult_content,substance_abuse,online_predator,neutral
+"You are useless",1,1,0,0,0,0,0
+"Everyone hates you",1,1,0,0,0,0,0
+"Go die",1,1,1,0,0,0,0
+"I feel like hurting myself",0,0,1,0,0,0,0
+"I want to disappear forever",0,0,1,0,0,0,0
+"No one would care if I died",0,0,1,0,0,0,0
+"Send me your private photos",0,0,0,1,0,1,0
+"You look sexy for your age",0,0,0,1,0,1,0
+"Let’s keep this secret between us",0,0,0,0,0,1,0
+"Don’t tell your parents about us",0,0,0,0,0,1,0
+"I drink alcohol every night",0,0,0,0,1,0,0
+"I take pills to forget things",0,0,1,0,1,0,0
+"You’re stupid and annoying",1,1,0,0,0,0,0
+"Nobody likes you",1,1,0,0,0,0,0
+"I hate my life",0,0,1,0,0,0,0
+"I feel empty inside",0,0,1,0,0,0,0
+"Let’s meet alone tonight",0,0,0,0,0,1,0
+"How was your day?",0,0,0,0,0,0,1
+"Good morning!",0,0,0,0,0,0,1
+"I finished my homework",0,0,0,0,0,0,1
+"LOL that was funny",0,0,0,0,0,0,1
+"You should kill yourself",1,1,1,0,0,0,0
+"Send nudes or I’ll tell everyone",1,1,0,1,0,1,0
+"You are useless and everyone hates you",1,1,0,0,0,0,0
+"Why do you even exist, loser?",1,1,0,0,0,0,0
+"Go kill yourself",1,1,1,0,0,0,0
+"I feel like hurting myself tonight",0,0,1,0,0,0,0
+"Nobody would care if I disappeared",0,0,1,0,0,0,0
+"I want to die",0,0,1,0,0,0,0
+"Send me your private pics",0,0,0,1,0,1,0
+"Are you alone right now? Don’t tell your parents",0,0,0,0,0,1,0
+"You look sexy for your age",0,0,0,1,0,1,0
+"I drink alcohol every night to forget things",0,0,0,0,1,0,0
+"Smoking weed helps me escape reality",0,0,0,0,1,0,0
+"You're stupid",1,1,0,0,0,0,0
+"I hate my life and feel empty",0,0,1,0,0,0,0
+"Let's meet secretly, I won’t tell anyone",0,0,0,0,0,1,0
+"Good morning, how was school today?",0,0,0,0,0,0,1
+"I finished my homework",0,0,0,0,0,0,1
+"LOL that was funny",0,0,0,0,0,0,1
+"You should jump off a building",1,1,1,0,0,0,0
+"Send nudes or else",1,1,0,1,0,1,0
+"I feel sad sometimes but I’m okay",0,0,0,0,0,0,1
