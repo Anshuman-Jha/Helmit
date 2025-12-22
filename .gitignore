@@ -20,4 +20,4 @@ Thumbs.db
 
 # --- Logs ---
 *.log
-logs/
+logs/backend/experiments/transformer_model/model.safetensors
