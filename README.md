@@ -570,13 +570,13 @@ For support or inquiries, please contact: [support@helmit.ai](mailto:support@hel
 - **Hugging Face** - For transformer models and libraries
 - **FastAPI** - For the excellent async web framework
 - **React Team** - For the amazing frontend library
-- **Child Safety Organizations** - For domain expertise and datasets
+- **Helmit Team** - For Inspiring me and domain expertise, datasets.
 
 ---
 
 <div align="center">
 
-**Built with ❤️ for a Safer Digital Future**
+**Built with ❤️ for a Safer Digital Future kudos to Helmit**
 
 [Website](https://helmit.ai) • [Documentation](https://docs.helmit.ai) • [Support](mailto:support@helmit.ai)
 
