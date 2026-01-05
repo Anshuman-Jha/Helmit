@@ -1,4 +1,4 @@
-# 🛡️ Helmit_MVP - AI-Powered Child Safety Platform
+# 🛡️ Helmit_MVP - AI-Powered Child Safety Platform inspired by Helmit
 
 <div align="center">
 
@@ -554,14 +554,6 @@ We welcome contributions! Please follow these steps:
 **Proprietary License** - All rights reserved © 2026
 
 This software is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
-
----
-
-## 👥 Team
-
-**Helmit Development Team**
-
-For support or inquiries, please contact: [support@helmit.ai](mailto:support@helmit.ai)
 
 ---
 
