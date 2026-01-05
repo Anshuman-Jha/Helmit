@@ -22,7 +22,7 @@
 
 - **🤖 Multi-Model AI Architecture** - Hybrid approach combining Transformer models (BERT-based) with TF-IDF classifiers and LSTM forecasting
 - **⚡ Real-Time Risk Detection** - Instant analysis of text messages with multi-label classification across 7 critical risk categories
-- **🔮 Predictive Forecasting** - LSTM-based time-series forecasting to predict future risk trends up to 7 days ahead
+- **🔮 Predictive Forecasting** - LSTM-based time-series forecasting to predict future risk trends up to 3 days ahead
 - **🔒 Privacy Protection** - Built-in regex-based privacy scanner that detects and blocks sensitive information (addresses, phone numbers, government IDs, bank details)
 - **📊 Interactive Dashboard** - Beautiful, modern React interface with real-time charts and visualizations
 - **🏗️ Production-Ready Architecture** - Async FastAPI backend + React frontend with PostgreSQL persistence
