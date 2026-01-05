@@ -1,4 +1,4 @@
-# 🛡️ Helmit_MVP - AI-Powered Child Safety Platform inspired by Helmit
+# 🛡️ Helmit_MVP - AI-Powered Child Safety Platform, inspired by Helmit.
 
 <div align="center">
 
